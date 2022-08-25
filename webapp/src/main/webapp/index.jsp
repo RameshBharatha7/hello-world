@@ -1,5 +1,5 @@
 <h1> Hello, Welcome to DevOps Training By Suhasini Maam !!! </h1>
-<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<h1 style="background-color:DodgerBlue;">Global Logic</h1>
 <!DOCTYPE html>
 <html>
 <head>
@@ -41,7 +41,7 @@ input[type=submit]:hover {
 </head>
 <body>
 
-<h3>Contact Form</h3>
+<h3>Global Logic Registration Form</h3>
 
 <div class="container">
   <form action="/action_page.php">
@@ -51,11 +51,12 @@ input[type=submit]:hover {
     <label for="lname">Last Name</label>
     <input type="text" id="lname" name="lastname" placeholder="Your last name..">
 
-    <label for="country">Country</label>
+    <label for="country">Location</label>
     <select id="country" name="country">
-      <option value="australia">Australia</option>
-      <option value="canada">Canada</option>
-      <option value="usa">USA</option>
+      <option value="usa">Banglore</option>
+      <option value="australia">Noida</option>
+      <option value="canada">Chennai</option>
+      <option value="usa">Hyderabad</option>
     </select>
 
     <label for="subject">Subject</label>
@@ -67,3 +68,4 @@ input[type=submit]:hover {
 
 </body>
 </html>
+
