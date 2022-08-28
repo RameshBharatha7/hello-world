@@ -1,5 +1,5 @@
-<h1> Hello, Welcome to DevOps Training By Suhasini Maam !!! </h1>
-<h1 style="background-color:DodgerBlue;">Global Logic</h1>
+<h3 style="color:Tomato;">Global Logic Employee Portal</h3>
+<h1 style="background-color:DodgerBlue;">Team-4</h1>
 <!DOCTYPE html>
 <html>
 <head>
